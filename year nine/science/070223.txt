@@ -1,0 +1,23 @@
+1. Velocity is a measure of how fast an object is moving in a certain direction.
+
+2. Speed = Distance divided by time
+
+3. Units of speed are meters per second (m/s).
+
+4. A horizontal line on a distance-time graph means the object is not moving.
+
+5. The slope of a line on a distance-time graph represents the velocity of an object. The steeper the line, the faster the object is moving.
+
+6. At a constant speed.
+
+7. Uniform velocity is a constant speed in a specific direction.
+
+8. The slope of a velocity-time graph represents the acceleration of an object. The steeper the slope, the greater the acceleration.
+
+9. The area under a velocity-time graph represents the displacement of an object. The bigger the area, the greater the displacement.
+
+10. A and C
+
+11. Acceleration = change in velocity/change in time
+
+12. The graph shows the change in velocity of a go-kart over time during the first 40 seconds of a race.

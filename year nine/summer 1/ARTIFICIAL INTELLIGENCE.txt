@@ -1,0 +1,29 @@
+SECTION A:
+
+1. The similarity between Talos and the figure on the book cover is not specified.
+
+2. Frankenstein's creature could think, feel emotions and was brought to life with electricity while the Golem could only be animated with the name of God and had limited capabilities.
+
+3. The Turing Test seeks to know whether a machine can be considered an 'Artificial Intelligence' by seeing if it can replicate human responses well enough to be mistaken for them.
+
+4. Three examples of modern technology that uses a type of AI are Amazon Alexa, chatbots, and driverless cars.
+
+5. 'beings except where such orders would conflict with the First Law.'
+
+SECTION C:
+
+The decision-making process of driverless cars in such ethical dilemmas is a challenging issue that the AI community is currently grappling with. There are a variety of approaches that have been proposed, including:
+Utilitarianism, which would prioritize maximizing the greatest good for the greatest number of people.
+Deontology, which would prioritize following established moral rules, such as avoiding harm to innocent people.
+Virtue ethics, which would prioritize the character of the AI and its alignment with human values.
+Regardless of the approach taken, there is no clear consensus on the best way to handle these situations. Some argue that it is ethical for the car to prioritize the safety of its passengers, while others argue that it should prioritize minimizing harm to the greatest number of people.
+The advantages of replacing soldiers with machines or AIs include:
+Increased efficiency and accuracy in combat operations.
+Reduced risk to human life and injury.
+Increased speed and scalability in decision-making and execution.
+However, there are also significant disadvantages to consider, such as:
+Lack of empathy and ethical decision-making in machines.
+Increased risk of autonomous weapons being used in unethical ways.
+Job loss for soldiers and other related jobs.
+Ethical concerns around accountability and responsibility in the event of harm caused by AI.
+Ultimately, the ethical limits of AGI development depend on the goals and values of society. However, it is important to consider both the potential benefits and drawbacks of AI, and to establish clear guidelines for its use and development.

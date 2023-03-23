@@ -1,0 +1,29 @@
+Section A:
+
+1. The Internet is a global system of interconnected computer networks that uses the Internet Protocol Suite (TCP/IP) to exchange data and provides services for applications like the World Wide Web.
+
+2. The Internet is based on the technologies of packet switching and the World Wide Web.
+
+3. Tim Berners-Lee is a British scientist who is credited with inventing the process that allowed global networks to be linked, which became the World Wide Web, in 1989.
+
+4. Two benefits of internet technology are efficient trade and unparalleled exchange of ideas.
+
+5. Ai Weiwei may have had the sunflower seeds hand-made to emphasize the vast number of precious pieces of information or interactions available via the internet, and to question the value placed on them. The hand-made nature of the seeds may also reflect a critique of mass production and a desire to draw attention to the individual pieces and their connection to the larger whole.
+
+Section C:
+
+There are advantages and disadvantages of the internet.
+For example the advantages are:
+-Efficient Communication: The internet has enabled global communication between people, businesses, and computer systems, making it easier to share information and exchange ideas across long distances.
+-Increased Access to Information: The internet provides access to a vast amount of information, from news and research to educational resources and entertainment.
+-Improved Trade and Business: The internet has made it easier for businesses to reach new customers, improve customer service, and streamline operations, leading to increased efficiency and growth.
+-Increased Connectivity: The internet has brought people closer together, enabling social and cultural exchange between people from different parts of the world.
+The disadvantages are:
+-Cybersecurity Threats: The internet has also made it easier for cybercriminals to access sensitive information, launch cyberattacks, and engage in online fraud, putting individuals and businesses at risk.
+-Addiction and Isolation: Excessive use of the internet can lead to addiction, which can harm social relationships and contribute to feelings of isolation and loneliness.
+-Spread of Misinformation: The internet can also be a source of misinformation, which can spread rapidly and lead to negative outcomes, such as the spread of conspiracy theories or the influence of fake news on political outcomes.
+-Privacy Concerns: The internet is also a source of privacy concerns, as personal information can be collected and used for malicious purposes, such as identity theft or targeted advertising.
+
+Overall, the growth of the internet has had a profound impact on society and has brought about both opportunities and dangers. While the internet has greatly improved communication, increased access to information, and transformed the way we do business, it has also introduced new cybersecurity threats, raised privacy concerns, and contributed to addiction and the spread of misinformation.
+
+The internet has made it possible to do many things that would have been harder or impossible in the 1980s, such as remote work, online shopping, and online education. However, protecting privacy online is becoming increasingly difficult, and it is important to be aware of the ways in which personal information can be collected and used. In the future, the internet is likely to continue to evolve, and it is impossible to predict exactly what it will be able to provide that it cannot yet. However, it is clear that the internet will continue to play a significant role in shaping our lives and our world.

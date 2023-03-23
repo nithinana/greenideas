@@ -1,0 +1,25 @@
+1. Thinking distance is the distance a vehicle travels while the driver reacts to a hazard.
+
+2. Thinking distance = speed x reaction time = 40 x 0.5 = 20 meters
+
+3. Factors affecting thinking distance include driver's age, fatigue, and distractions.
+
+4. Braking distance is the distance a vehicle travels while coming to a stop from a given speed.
+
+5. Factors affecting braking distance include the condition of the road surface, the condition of the vehicle's brakes, and the weight of the vehicle.
+
+6. Stopping distance is the total distance a vehicle travels while coming to a stop, including both thinking distance and braking distance.
+
+7. Acceleration is the rate at which the speed of an object changes over time.
+
+8. Reaction time is the time it takes for a person to react to a stimulus, such as a hazard on the road, and take action.
+
+9. Using a hand-held mobile phone while driving is more dangerous as it increases the driver's thinking distance. 
+The thinking distance is the distance a vehicle travels while the driver reacts to a hazar which increases from 19m for not using a phone to 27m when using a hand-held phone. 
+Using a hands-free kit still increases the thinking distance to 23m, but not as much as using a hand-held phone.
+
+10. The total stopping distance of the car in this here is 21m + 75m = 96m.
+
+11. The independent variable is drinking coffee containing caffeine. The dependent variable is the reaction time shown on the computer screen. The controlled variables include the method used, the time between the two tests, and the equipment used.
+
+12. He may not be able to stop in time as the wet road makes it harder to stop easily. The man's speed and the condition of his brakes also affect his ability to stop in time.

@@ -1,0 +1,38 @@
+1. Three deliberate mistakes in the definition of diffusion are:
+The direction of movement is wrongly stated as from a region of lower concentration to a region of 
+higher concentration, whereas it should be the opposite, i.e., from a region of higher concentration 
+to a region of lower concentration.
+The definition states that diffusion requires energy, which is incorrect. In reality, diffusion is a 
+passive process that does not require any input of energy.
+The definition does not specify that diffusion involves the movement of molecules from an area of 
+high concentration to an area of low concentration along the concentration gradient.
+Correct definition: 
+Diffusion is the passive movement of molecules or particles from an area of high concentration to an 
+area of low concentration along the concentration gradient, without requiring the input of energy.
+
+2. Temperature increases molecular movement, causing faster diffusion.
+
+3. Particle size, concentration gradient, and medium affect diffusion rate.
+
+4. Photosynthesis in leaves; respiration in lungs involve diffusion.
+
+5. Active transport moves molecules against gradient with ATP or electrochemical gradient.
+
+6. Carrier proteins use ATP or electrochemical gradient to move molecules against gradient.
+
+7. Plants: root cells use proton pumps to uptake minerals; animals: Na-K pump maintains membrane gradient.
+
+8. The cell has a folded membrane to increase the surface area available for absorption.
+
+9. The cell needs many mitochondria to provide energy for active transport and cellular processes.
+
+10.
+(i) Arrow A represents the movement of oxygen molecules.
+  
+(ii) Arrow C represents the movement of carbon dioxide molecules.
+
+(iii) Arrow B represents the active uptake of sugar molecules by the cell.
+
+11. Active transport moves molecules against the concentration gradient, while diffusion allows for passive movement, both essential for aerobic respiration.
+
+12. Active transport requires ATP, moves against the concentration gradient, while diffusion is passive and moves along the concentration gradient.

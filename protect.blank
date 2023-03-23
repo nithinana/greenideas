@@ -1,0 +1,23 @@
+<script>
+    window.onload = function() {
+        passWord();
+    }
+
+    function passWord() {
+        var testV = 1;
+        while (testV < 3) {
+            var pass1 = prompt('Password',' ');
+            if (!pass1) {
+                window.location.href = "https://greenideas.tech/";
+                return;
+            }
+            if (pass1.toLowerCase() == "therealmoment") {
+                alert('ayyyy correct password');
+                break;
+            }
+            testV += 1;
+        }
+        if (testV === 3) {
+            window.location.href = "https://greenideas.tech";
+        }
+    }

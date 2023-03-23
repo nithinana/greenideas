@@ -1,0 +1,66 @@
+1. Cell
+   Nucleus
+   Chromosome
+   Gene
+
+2.DNA is made up of repeating nucleotide subunits consisting of sugar, phosphate, and nitrogenous base.
+
+3. A is base
+   B is deoxyribose
+   C is phosphate
+
+4. Double-stranded helix composed of nucleotides with base pairs A, T, C, G carrying genetic information.
+
+5. Hydrogen bonds between complementary nitrogenous bases hold the two strands of DNA together.
+
+6. TAC GGC AAT GAC
+
+7. No, the student is incorrect. Human body cells typically contain 46 chromosomes, with 23 inherited 7from each parent.
+
+8. The phenotype of an organism depends on both its genotype (genetic makeup) and its environment.
+
+9. Genes contain instructions for the development and function of proteins, which determine many physical and physiological traits of an organism, including its appearance (phenotype).
+
+10.Inherited genes shuffled in meiosis/fertilization lead to unique combinations of traits.
+
+11.Bacterial offspring are identical because they reproduce asexually via binary fission
+
+12.Sexual reproduction increases diversity but requires a mate, asexual reproduction is efficient but lacks diversity.
+
+
+
+
+MORE ADVANTAGES AND DISADVANTAGES OF SEXUAL AND ASEXUAL REPRODUCTION FOR QUESTION 12:
+
+SEXUAL PRODUCTION:
+
+Advantages:
+
+Increases genetic diversity among offspring, which can increase the likelihood of adapting to changing environments.
+
+Can help to reduce the risk of genetic diseases by allowing harmful mutations to be eliminated through natural selection.
+
+Can lead to the evolution of new traits and species through genetic recombination.
+Disadvantages:
+
+Requires finding and attracting a mate, which can be energetically expensive and time-consuming.
+
+Exposes offspring to genetic variability that can be detrimental if harmful mutations are present in the gene pool.
+
+Can break up beneficial gene combinations, which can be disadvantageous in the short term.
+
+
+ASEXUAL REPRODUCTION:
+
+Advantages:
+
+Is efficient, since no mate is needed.
+Results in a high reproductive rate, allowing for rapid colonization of favorable habitats.
+
+Avoids the risks of genetic variability, since offspring are genetically identical to the parent.
+
+Disadvantages:
+
+Lacks genetic diversity, which can limit adaptation to changing environments.
+Cannot eliminate harmful mutations, leading to the accumulation of deleterious traits over time.
+Cannot evolve new traits or species through genetic recombination.
