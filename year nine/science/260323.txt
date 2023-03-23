@@ -1,0 +1,62 @@
+1. Cell components and functions:
+a. Cell wall: provides structural support and protection to the cell.
+b. Ribosome: synthesizes proteins.
+c. Cell membrane: regulates the passage of materials in and out of the cell.
+d. Plasmid: a small, circular DNA molecule that can replicate independently and often contains genes for specific functions such as antibiotic resistance.
+
+2. Magnification:
+a. Magnification = image size ÷ actual size
+b. Actual size = image size ÷ magnification = 4.8mm ÷ 400 = 0.012mm
+c. Size in µm = size in mm × 1000 = 0.012mm × 1000 = 12µm
+
+3. Definitions:
+a. DNA: a molecule that carries genetic information and contains the instructions for the development and function of all living organisms.
+b. Chromosome: a structure within the cell nucleus that contains DNA.
+c. Gene: a sequence of DNA that contains the instructions for a specific trait or function.
+d. Genome: the complete set of genes or genetic material present in an organism.
+
+4.
+Carbohydrate - Monomer: Glucose
+Protein - Monomer: Amino acid
+DNA - Monomer: Nucleotide
+
+5. Filtration:
+Filtration is a method of separating mixtures by passing them through a filter that retains larger particles while allowing smaller ones to pass through. For sand and water, a filter paper or sieve can be used to separate the sand from the water. The mixture is poured onto the filter, and the water passes through while the sand remains on the filter.
+
+6. Subatomic particles:
+Particle - Charge - Relative mass
+Proton - Positive (+1) - 1
+Neutron - Neutral (0) - 1
+Electron - Negative (-1) - 0.0005
+
+7. Group and period number:
+The group number tells you the number of valence electrons in an atom's outermost shell, while the period number tells you the number of occupied electron shells.
+
+8. Compounds formed:
+a. Sodium chloride
+b. Lithium iodide
+c. Magnesium fluoride
+d. Calcium carbonate
+e. Calcium sulphate
+
+9. Scalar or vector:
+a. Scalar
+b. Vector
+c. Scalar
+d. Scalar
+e. Vector
+f. Vector
+
+10. Contact or non-contact:
+a. Contact
+b. Non-contact
+c. Non-contact
+d. Contact
+e. Contact
+
+11. Density:
+a. Density = mass ÷ volume
+b. Density = 570g ÷ 2280cm3 = 0.25g/cm3
+
+12. Water in different states:
+In a solid state (ice), water molecules are tightly packed in a regular pattern, with very little energy and only slight vibrations. In a liquid state, water molecules are less tightly packed and can move past one another, with more energy and greater movement. In a gaseous state (water vapour), water molecules have the most energy and are widely separated, moving freely and independently of each other.
