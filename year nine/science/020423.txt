@@ -1,0 +1,37 @@
+1. The overall charge of an ionic compound is zero because it is composed of positively charged cations and negatively charged anions in equal numbers, which cancel out each other's charge.
+
+2. The chemical formula of lithium chloride is LiCl.
+
+3.The chemical formula of the compound formed by Ca2+ and OH- ions is Ca(OH)2.
+
+4. The state symbol aq means that the substance is dissolved in water (aqueous).
+
+5.Symbol equations must be balanced because of the law of conservation of mass, which states that matter cannot be created or destroyed in a chemical reaction. Therefore, the number of atoms of each element must be the same on both sides of the equation.
+
+6. 2Li + Cl2 → 2LiCl
+
+7. Mg + 2HCl → MgCl2 + H2
+
+8. 2Fe2O3 + 4Al → 6Fe + 4Al2O3
+
+9. 2HNO3 + Ca(OH)2 → Ca(NO3)2 + 2H2O
+
+10. The relative formula mass of H2SO4 is 98.
+
+11. The percentage of sulfur in H2SO4 is 32.65%.
+
+12. Na2CO3(aq) + 2HCl(aq) = 2NaCl(aq) + CO2(g) + H2O(l)
+
+
+DETAILED ANSWER FOR QUESTION 12:
+
+Na2CO3(aq) + 2HCl(aq) → 2NaCl(aq) + CO2(g) + H2O(l)
+The state symbols are (aq) for aqueous (dissolved in water) and (g) for gas.
+The molecular formula of sodium carbonate is Na2CO3, which consists of two sodium atoms (Na), one carbon atom (C), and three oxygen atoms (O). The atomic masses of Na, C, and O are 23, 12, and 16 respectively. Therefore, the Mr of sodium carbonate is:
+Mr(Na2CO3) = 2 x Mr(Na) + Mr(C) + 3 x Mr(O)
+= 2 x 23 + 12 + 3 x 16
+= 106
+The percentage of sodium in sodium carbonate is:
+% sodium = (2 x Mr(Na) / Mr(Na2CO3)) x 100
+= (2 x 23 / 106) x 100
+= 43.4%
